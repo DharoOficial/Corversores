@@ -1,0 +1,13 @@
+C:\Users\mercatudo\Documents\site\Estatica\bin\Debug\netcoreapp3.1\Estatica.exe
+C:\Users\mercatudo\Documents\site\Estatica\bin\Debug\netcoreapp3.1\Estatica.deps.json
+C:\Users\mercatudo\Documents\site\Estatica\bin\Debug\netcoreapp3.1\Estatica.runtimeconfig.json
+C:\Users\mercatudo\Documents\site\Estatica\bin\Debug\netcoreapp3.1\Estatica.runtimeconfig.dev.json
+C:\Users\mercatudo\Documents\site\Estatica\bin\Debug\netcoreapp3.1\Estatica.dll
+C:\Users\mercatudo\Documents\site\Estatica\bin\Debug\netcoreapp3.1\Estatica.pdb
+C:\Users\mercatudo\Documents\site\Estatica\obj\Debug\netcoreapp3.1\Estatica.csprojAssemblyReference.cache
+C:\Users\mercatudo\Documents\site\Estatica\obj\Debug\netcoreapp3.1\Estatica.csproj.CoreCompileInputs.cache
+C:\Users\mercatudo\Documents\site\Estatica\obj\Debug\netcoreapp3.1\Estatica.AssemblyInfoInputs.cache
+C:\Users\mercatudo\Documents\site\Estatica\obj\Debug\netcoreapp3.1\Estatica.AssemblyInfo.cs
+C:\Users\mercatudo\Documents\site\Estatica\obj\Debug\netcoreapp3.1\Estatica.dll
+C:\Users\mercatudo\Documents\site\Estatica\obj\Debug\netcoreapp3.1\Estatica.pdb
+C:\Users\mercatudo\Documents\site\Estatica\obj\Debug\netcoreapp3.1\Estatica.genruntimeconfig.cache
